@@ -2,5 +2,5 @@
 
 ## Binary Search Tree Projesi
 
-[alt "image"](https://resimyukle.io/r/N98uvObLvd)
+![alt "image"](https://resimyukle.io/r/N98uvObLvd)
 ---
